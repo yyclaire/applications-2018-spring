@@ -1,0 +1,20 @@
+{
+  "entrypoints" : [
+    {
+      "name" : "Sign up Page",
+      "file" : "enter.png"
+    },
+    {
+      "name" : "Thank you Page",
+      "file" : "thankYou.png"
+    },
+    {
+      "name" : "Before open",
+      "file" : "beforeOpen.png"
+    },
+    {
+      "name" : "Closed Page",
+      "file" : "closed.png"
+    }
+  ]
+}
