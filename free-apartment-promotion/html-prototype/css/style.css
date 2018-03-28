@@ -528,7 +528,6 @@ ul {
 }
 .footer p {
 	margin-bottom:30px;
-	padding-left:60px;
 	padding-right:60px;
 }
 .footer li {
@@ -712,6 +711,8 @@ a.share.googleplus {
 input{
   width: 90%;
   height:30px;
+  padding-left: 20px;
+  font-size: 15px;
 }
 #button{
       margin-top: 20px;
